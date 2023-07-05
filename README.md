@@ -24,5 +24,9 @@
 
 
 
-Follow me
+## Follow me
+[![Telegram](https://img.shields.io/badge/Telegram-48C1F9?style=for-the-badge&logo=Telegram)](https://t.me/ponikatalo)
+[![Instagram](https://img.shields.io/badge/Instagram-DF73FF?style=for-the-badge&logo=Instagram)](https://www.instagram.com/ponikatalo) 
+![Linkedin](https://img.shields.io/badge/Linkedin-3B71F7?style=for-the-badge&logo=Linkedin)
+[![Vkontakte](https://img.shields.io/badge/Vkontakte-3B71F7?style=for-the-badge&logo=Vkontakte)](https://vk.com/ponikatalo)
 
